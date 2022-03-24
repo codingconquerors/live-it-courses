@@ -1,0 +1,10 @@
+export { default as Navigation } from "./Navigation";
+export { default as Footer } from "./Footer";
+export { default as WhyUs } from "./WhyUs";
+export { default as About } from "./About";
+export { default as OnlineCourses } from "./OnlineCourses";
+export { default as Backendcourse } from "./Backendcourse";
+export { default as Frontendcourse } from "./Frontendcourse";
+export { default as Blog } from "./blog/Blog";
+export { default as Posts } from "./blog/Posts";
+export { default as Post } from "./blog/Post";
