@@ -6,7 +6,7 @@ function Posts() {
     <div className="home">
       <div className="container">
         <Link to="/blog/this-is-a-post-title">
-          <div className="row align-items-center my-5">
+          <div className="row my-5">
             <div className="col-xs-5 col-sm-6 col-lg-4">
               <img
                 className="img-fluid rounded mb-4 mb-lg-0"

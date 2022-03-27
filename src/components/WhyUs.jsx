@@ -17,7 +17,7 @@ function WhyUs() {
             <h2 className="font-weight-light">
               We have the answers to all your questions:
             </h2>
-            <p style={{"font-size":"15px"}}>
+            <p >
               - Are you a computer science or an IT student who is afraid of
               coding? <br></br> We can help you in conquering this fear within a
               month. <br></br> - Are you a computer science or an IT student who
@@ -34,20 +34,7 @@ function WhyUs() {
               back to get an entry into the IT field? <br></br> If yes, then you
               are in the right place.
             </p>
-            <h2 className="font-weight-light">Our Teaching Ideology:</h2>
-            <p style={{"font-size":"15px"}}>
-              We offer online courses purely based on live classes. During these
-              live classes, we understand the existing level of students'
-              knowledge and experience, and the transformation starts from
-              there. This is exactly the opposite of learning through recorded
-              lectures which normally take a lot longer to complete and do not
-              clear your doubts. We clear your doubts instantly and help you
-              achieve your goals rapidly. We believe that no student is weak, it
-              is just the gap in the level of understanding between a student
-              and a teacher which makes things complicated. Our live classes
-              fill all the gaps.
-            </p>
-          </div>
+            </div>
         </div>
       </div>
     </div>
