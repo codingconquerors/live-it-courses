@@ -32,7 +32,7 @@ function About() {
         <meta property="og:type" content="website" />
         <meta
           property="og:image"
-          content="https://liveonlineclasses.com/assets/images/online-IT-courses-with-live-classes.png"
+          content="https://liveonlineclasses.com/assets/images/online-IT-courses-with-live-classes.svg"
         />
         <meta
           property="og:image:alt"
@@ -51,7 +51,7 @@ function About() {
         />
         <meta
           name="twitter:image"
-          content="https://liveonlineclasses.com/assets/images/online-IT-courses-with-live-classes.png"
+          content="https://liveonlineclasses.com/assets/images/online-IT-courses-with-live-classes.svg"
         />
       </Helmet>
       <div className="container">
@@ -59,7 +59,7 @@ function About() {
           <div className="col-xs-5 col-sm-6 col-lg-4">
             <img
               className="img-fluid rounded mb-4 mb-lg-0"
-              src="/assets/images/conquer-the-world-of-coding.png"
+              src="/assets/images/conquer-the-world-of-coding.svg"
               alt="IT courses with interactive classes"
             />
           </div>

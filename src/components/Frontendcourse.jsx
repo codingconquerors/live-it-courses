@@ -8,7 +8,7 @@ function Frontendcourse() {
           <div className="col-xs-5 col-sm-6 col-lg-4">
             <img
               className="img-fluid rounded mb-4 mb-lg-0"
-              src="/assets/images/angular-reactjs-frontend-technologies-online-course-with-live-classes.png"
+              src="/assets/images/angular-reactjs-frontend-technologies-online-course-with-live-classes.svg"
               alt="Online IT courses with live classes"
             />
           </div>

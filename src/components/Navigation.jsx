@@ -37,7 +37,7 @@ function Navigation() {
           <div className="header__middle__logo">
             <NavLink end activeclassname="is-active" to="/">
               <img
-                src="/assets/images/logonew_verysmall.png"
+                src="/assets/images/logonew_verysmall.svg"
                 alt="Online IT courses with live classes"
               />
             </NavLink>

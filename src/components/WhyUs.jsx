@@ -8,7 +8,7 @@ function WhyUs() {
           <div className="col-xs-5 col-sm-6 col-lg-4">
             <img
               className="img-fluid rounded mb-4 mb-lg-0"
-              src="/assets/images/what-online-courses-we-provide.png"
+              src="/assets/images/what-online-courses-we-provide.svg"
               alt="Online IT courses with live classes"
             />
           </div>
