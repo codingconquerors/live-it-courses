@@ -8,7 +8,7 @@ function OnlineCourses() {
           <div className="col-xs-5 col-sm-6 col-lg-4">
             <img
               className="img-fluid rounded mb-4 mb-lg-0"
-              src="/assets/images/online-courses-we-offer-with-live-classes.svg"
+              src="/assets/images/online-courses-we-offer-with-live-classes.png"
               alt="Online IT courses with live classes"
             />
           </div>

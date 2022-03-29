@@ -1,14 +1,65 @@
 import React from "react";
-
+import { Helmet } from "react-helmet";
 function Backendcourse() {
   return (
     <div className="courses">
+      <Helmet>
+        <meta name="title" content="Online courses based on Java, spring boot and microservices with interactive live classes" />
+        <meta
+          name="description"
+          content="Learn backend technologies such as java, spring boot, apache camel, Kafka, microservices, Docker, Kubernetes through online course with live classes."
+        />
+        <meta
+          name="keywords"
+          content="Learn Java, spring boot and microservices in live classes, interactive programming sessions."
+        />
+        <meta name="robots" content="index, follow" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="language" content="English" />
+        <meta name="author" content="codingconquerors" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <meta
+          property="og:title"
+          content="Online course based on Java, spring boot and microservices with interactive live classes"
+        />
+        <meta property="og:site_name" content="liveonlineclasses" />
+        <meta property="og:url" content="https://www.liveitcourses.com/" />
+        <meta
+          property="og:description"
+          content="Learn online course based on java, spring boot, apache camel, Kafka, microservices, Docker, Kubernetes with live classes."
+        />
+        <meta property="og:type" content="website" />
+        <meta
+          property="og:image"
+          content="https://www.liveitcourses.com//assets/images/java-spring-boot-microservices-online-course-with-live-classes.svg"
+        />
+        <meta
+          property="og:image:alt"
+          content="java, spring boot, apache camel, Kafka, microservices online course with interactive classes"
+        />
+
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@liveitcourses" />
+        <meta
+          name="twitter:title"
+          content="Online course based on Java, spring boot and microservices with interactive live classes"
+        />
+        <meta
+          name="twitter:description"
+          content="Learn online course based on java, spring boot, apache camel, Kafka, microservices, Docker, Kubernetes with live classes."
+        />
+        <meta
+          name="twitter:image"
+          content="https://www.liveitcourses.com//assets/images/java-spring-boot-microservices-online-course-with-live-classes.svg"
+        />
+      </Helmet>
       <div className="container">
         <div className="row my-5">
           <div className="col-xs-5 col-sm-6 col-lg-4">
             <img
               className="img-fluid rounded mb-4 mb-lg-0"
-              src="/assets/images/java-spring-boot-microservices-online-course-with-live-classes.svg"
+              src="/assets/images/java-spring-boot-microservices-online-course-with-live-classes.png"
               alt="Online IT courses with live classes"
             />
           </div>

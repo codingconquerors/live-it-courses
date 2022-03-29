@@ -11,7 +11,7 @@ function About() {
         />
         <meta
           name="keywords"
-          content="live online classes, online IT courses, live coding classes, learn programming with live classes, interactive programming classes, interactive programming courses"
+          content="live online classes, online IT courses, live coding classes, learn programming with live classes, interactive programming classes, interactive programming courses, one to one coding classes, one to one programming classes"
         />
         <meta name="robots" content="index, follow" />
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -24,15 +24,15 @@ function About() {
           content="Online IT courses with live classes"
         />
         <meta property="og:site_name" content="liveonlineclasses" />
-        <meta property="og:url" content="https://liveonlineclasses.com" />
+        <meta property="og:url" content="https://www.liveitcourses.com/" />
         <meta
           property="og:description"
-          content="Learn online IT courses in live classes. We teach online live courses based on java, spring boot, apache camel, Kafka, microservices, Docker, Kubernetes"
+          content="Learn online IT courses in live classes. We teach online live courses based on java, spring boot, apache camel, Kafka, microservices, Docker, Kubernetes, angular, react js etc."
         />
         <meta property="og:type" content="website" />
         <meta
           property="og:image"
-          content="https://liveonlineclasses.com/assets/images/online-IT-courses-with-live-classes.svg"
+          content="https://www.liveitcourses.com//assets/images/online-IT-courses-with-live-classes.svg"
         />
         <meta
           property="og:image:alt"
@@ -51,7 +51,7 @@ function About() {
         />
         <meta
           name="twitter:image"
-          content="https://liveonlineclasses.com/assets/images/online-IT-courses-with-live-classes.svg"
+          content="https://www.liveitcourses.com//assets/images/online-IT-courses-with-live-classes.svg"
         />
       </Helmet>
       <div className="container">
@@ -59,7 +59,7 @@ function About() {
           <div className="col-xs-5 col-sm-6 col-lg-4">
             <img
               className="img-fluid rounded mb-4 mb-lg-0"
-              src="/assets/images/conquer-the-world-of-coding.svg"
+              src="/assets/images/conquer-the-world-of-coding.png"
               alt="IT courses with interactive classes"
             />
           </div>
@@ -92,7 +92,7 @@ function About() {
               clear your doubts. We clear your doubts instantly and help you
               achieve your goals rapidly. We believe that no student is weak, it
               is just the gap in the level of understanding between a student
-              and a teacher which makes things complicated. Our live classes
+              and a teacher which makes things complicated. Our interactive programming classes
               fill all the gaps.
             </p>
           

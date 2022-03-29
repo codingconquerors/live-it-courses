@@ -8,7 +8,7 @@ function WhyUs() {
           <div className="col-xs-5 col-sm-6 col-lg-4">
             <img
               className="img-fluid rounded mb-4 mb-lg-0"
-              src="/assets/images/what-online-courses-we-provide.svg"
+              src="/assets/images/learn-coding-in-live-classes.png"
               alt="Online IT courses with live classes"
             />
           </div>
@@ -33,6 +33,9 @@ function WhyUs() {
               leave the IT field because of some personal reason, and looking
               back to get an entry into the IT field? <br></br> If yes, then you
               are in the right place.
+            </p>
+            <p>
+              Last but not least, we make learning coding easy by teaching coding through live coding sessions.
             </p>
             </div>
         </div>
