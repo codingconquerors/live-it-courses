@@ -14,6 +14,7 @@ function About() {
           content="live online classes, online IT courses, live coding classes, learn programming with live classes, interactive programming classes, interactive programming courses, one to one coding classes, one to one programming classes"
         />
         <meta name="robots" content="index, follow" />
+        <meta name="google-site-verification" content="0Vwwc_sg_KrnN4F8z_TpK81iov4KqYMh343lVE1IxPI"/>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
         <meta name="language" content="English" />
         <meta name="author" content="codingconquerors" />
