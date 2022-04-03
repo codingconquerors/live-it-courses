@@ -61,15 +61,15 @@ function Frontendcourse() {
             <img
               className="img-fluid rounded mb-4 mb-lg-0"
               src={frontEndImg}
-              alt="Online IT courses with live classes"
+              alt="Best online IT courses based on live classes and interactive programming sessions"
             />
           </div>
           <div className="col-xs-7 col-sm-6 col-lg-8">
-            <h1 className="font-weight-light">Angular, React js and Microservices based Online Course with Live Classes. Just like our other IT courses, this course is also based on the one to one session with students. Each topic is covered through interactive programming sessions.</h1>
+            <h1 ><u>Angular, React js based Online Course with Live Classes.</u></h1>
             <p >
-            Launching soon.
+              Just like our other IT courses, this course is also based on the one to one session with students. Each topic is covered through interactive programming sessions.
             </p>
-            <h2 className="font-weight-light">
+            <h2 >
               Course Outline:
             </h2>
             <p >Launching soon</p>

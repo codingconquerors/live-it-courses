@@ -258,7 +258,7 @@ li {
   }
   .main-nav ul.menuq2 {
     display: block !important;
-    position: absolute;
+    //position: absolute;
     left: 0;
     z-index: 10007;
     background-color: #198754;
