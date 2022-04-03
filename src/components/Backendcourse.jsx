@@ -1,6 +1,6 @@
 import React from "react";
 import { Helmet } from "react-helmet";
-import backendImg from '../img/java-spring-boot-microservices-online-course-with-live-classes.png'
+import backendImg from '../img/java-spring-boot-microservices-online-course-with-live-classes.webp'
 function Backendcourse() {
   return (
     <div className="courses">
@@ -33,7 +33,7 @@ function Backendcourse() {
         <meta property="og:type" content="website" />
         <meta
           property="og:image"
-          content="https://www.liveitcourses.com//assets/images/java-spring-boot-microservices-online-course-with-live-classes.svg"
+          content={backendImg}
         />
         <meta
           property="og:image:alt"
@@ -52,7 +52,7 @@ function Backendcourse() {
         />
         <meta
           name="twitter:image"
-          content="https://www.liveitcourses.com//assets/images/java-spring-boot-microservices-online-course-with-live-classes.svg"
+          content={backendImg}
         />
       </Helmet>
       <div className="container">

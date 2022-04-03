@@ -1,6 +1,6 @@
 import React from "react";
 import { Helmet } from "react-helmet";
-import aboutImg from '../img/conquer-the-world-of-coding.png'
+import aboutImg from '../img/conquer-the-world-of-coding.webp'
 function About() {
   return (
     <div className="about">
@@ -34,7 +34,7 @@ function About() {
         <meta property="og:type" content="website" />
         <meta
           property="og:image"
-          content="https://www.liveitcourses.com//assets/images/online-IT-courses-with-live-classes.svg"
+          content={aboutImg}
         />
         <meta
           property="og:image:alt"
@@ -53,7 +53,7 @@ function About() {
         />
         <meta
           name="twitter:image"
-          content="https://www.liveitcourses.com//assets/images/online-IT-courses-with-live-classes.svg"
+          content={aboutImg}
         />
       </Helmet>
       <div className="container">
