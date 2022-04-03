@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { NavLink, Link } from "react-router-dom";
 import { FiAlignRight, FiXCircle, FiChevronDown } from "react-icons/fi";
+import logoImg from '../img/logonew_verysmall.svg'
 
 function Navigation() {
   const [isMenu, setisMenu] = useState(false);
@@ -37,7 +38,7 @@ function Navigation() {
           <div className="header__middle__logo">
             <NavLink end activeclassname="is-active" to="/">
               <img
-                src="/assets/images/logonew_verysmall.svg"
+                src={logoImg}
                 alt="Online IT courses with live classes"
               />
             </NavLink>

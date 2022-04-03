@@ -1,5 +1,5 @@
 import React from "react";
-
+import coursesImg from '../img/online-courses-we-offer-with-live-classes.png'
 function OnlineCourses() {
   return (
     <div className="courses">
@@ -8,7 +8,7 @@ function OnlineCourses() {
           <div className="col-xs-5 col-sm-6 col-lg-4">
             <img
               className="img-fluid rounded mb-4 mb-lg-0"
-              src="/assets/images/online-courses-we-offer-with-live-classes.png"
+              src={coursesImg}
               alt="Online IT courses with live classes"
             />
           </div>

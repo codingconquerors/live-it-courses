@@ -1,5 +1,6 @@
 import React from "react";
 import { Helmet } from "react-helmet";
+import backendImg from '../img/java-spring-boot-microservices-online-course-with-live-classes.png'
 function Backendcourse() {
   return (
     <div className="courses">
@@ -59,7 +60,7 @@ function Backendcourse() {
           <div className="col-xs-5 col-sm-6 col-lg-4">
             <img
               className="img-fluid rounded mb-4 mb-lg-0"
-              src="/assets/images/java-spring-boot-microservices-online-course-with-live-classes.png"
+              src={backendImg}
               alt="Online IT courses with live classes"
             />
           </div>
