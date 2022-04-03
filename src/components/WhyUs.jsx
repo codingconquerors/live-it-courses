@@ -1,5 +1,5 @@
 import React from "react";
-
+import whyUsImg from '../img/learn-coding-in-live-classes.png'
 function WhyUs() {
   return (
     <div className="home">
@@ -8,7 +8,7 @@ function WhyUs() {
           <div className="col-xs-5 col-sm-6 col-lg-4">
             <img
               className="img-fluid rounded mb-4 mb-lg-0"
-              src="/assets/images/learn-coding-in-live-classes.png"
+              src={whyUsImg}
               alt="Online IT courses with live classes"
             />
           </div>

@@ -1,5 +1,6 @@
 import React from "react";
 import { Helmet } from "react-helmet";
+import aboutImg from '../img/conquer-the-world-of-coding.png'
 function About() {
   return (
     <div className="about">
@@ -60,7 +61,7 @@ function About() {
           <div className="col-xs-5 col-sm-6 col-lg-4">
             <img
               className="img-fluid rounded mb-4 mb-lg-0"
-              src="/assets/images/conquer-the-world-of-coding.png"
+              src={aboutImg}
               alt="IT courses with interactive classes"
             />
           </div>
