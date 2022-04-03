@@ -1,6 +1,6 @@
 import React from "react";
 import { Helmet } from "react-helmet";
-import frontEndImg from '../img/angular-reactjs-frontend-technologies-online-course-with-live-classes.png'
+import frontEndImg from '../img/angular-reactjs-frontend-technologies-online-course-with-live-classes.webp'
 function Frontendcourse() {
   return (
     <div className="courses">
@@ -33,7 +33,7 @@ function Frontendcourse() {
         <meta property="og:type" content="website" />
         <meta
           property="og:image"
-          content="https://www.liveitcourses.com/assets/images/angular-reactjs-frontend-technologies-online-course-with-live-classes.svg"
+          content={frontEndImg}
         />
         <meta
           property="og:image:alt"
@@ -52,7 +52,7 @@ function Frontendcourse() {
         />
         <meta
           name="twitter:image"
-          content="https://www.liveitcourses.com/assets/images/angular-reactjs-frontend-technologies-online-course-with-live-classes.svg"
+          content={frontEndImg}
         />
       </Helmet>
       <div className="container">

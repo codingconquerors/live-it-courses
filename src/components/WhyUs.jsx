@@ -1,5 +1,5 @@
 import React from "react";
-import whyUsImg from '../img/learn-coding-in-live-classes.png'
+import whyUsImg from '../img/learn-coding-in-live-classes.webp'
 function WhyUs() {
   return (
     <div className="home">

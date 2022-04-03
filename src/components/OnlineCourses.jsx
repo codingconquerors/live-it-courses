@@ -1,5 +1,5 @@
 import React from "react";
-import coursesImg from '../img/online-courses-we-offer-with-live-classes.png'
+import coursesImg from '../img/online-courses-we-offer-with-live-classes.webp'
 function OnlineCourses() {
   return (
     <div className="courses">
