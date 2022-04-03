@@ -5,10 +5,10 @@ function About() {
   return (
     <div className="about">
       <Helmet>
-        <meta name="title" content="Online IT courses with live classes" />
+        <meta name="title" content="A team of IT professionals who provides best online IT courses based on live classes and interactive programming sessions" />
         <meta
           name="description"
-          content="Learn online IT courses in live classes. We teach online live courses based on java, spring boot, apache camel, Kafka, microservices, Docker, Kubernetes"
+          content="Learn online IT courses in live classes from professionals. We teach online live courses based on java, spring boot, apache camel, Kafka, microservices, Docker, Kubernetes, angular, react etc."
         />
         <meta
           name="keywords"
@@ -23,13 +23,13 @@ function About() {
 
         <meta
           property="og:title"
-          content="Online IT courses with live classes"
+          content="A team of IT professionals who provides best online IT courses based on live classes and interactive programming sessions"
         />
         <meta property="og:site_name" content="liveonlineclasses" />
         <meta property="og:url" content="https://www.liveitcourses.com/" />
         <meta
           property="og:description"
-          content="Learn online IT courses in live classes. We teach online live courses based on java, spring boot, apache camel, Kafka, microservices, Docker, Kubernetes, angular, react js etc."
+          content="Learn online IT courses in live classes from professionals. We teach online live courses based on java, spring boot, apache camel, Kafka, microservices, Docker, Kubernetes, angular, react etc."
         />
         <meta property="og:type" content="website" />
         <meta
@@ -45,11 +45,11 @@ function About() {
         <meta name="twitter:site" content="@liveitcourses" />
         <meta
           name="twitter:title"
-          content="Online IT courses with live classes"
+          content="A team of IT professionals who provides best online IT courses based on live classes and interactive programming sessions"
         />
         <meta
           name="twitter:description"
-          content="Learn online IT courses in live classes. We teach online live courses based on java, spring boot, apache camel, Kafka, microservices, Docker, Kubernetes."
+          content="Learn online IT courses in live classes from professionals. We teach online live courses based on java, spring boot, apache camel, Kafka, microservices, Docker, Kubernetes, angular, react etc."
         />
         <meta
           name="twitter:image"
@@ -66,11 +66,11 @@ function About() {
             />
           </div>
           <div className="col-xs-7 col-sm-6 col-lg-8">
-            <h1 className="font-weight-light">About Us</h1>
+            <h1 ><u>We are IT Professionals who teach coding skills through live classes</u></h1>
             <p>
               We are a team of highly experienced IT professionals who can help
-              you achieve your career objectives by conducting live online
-              classes. We transform your life by helping you get an IT job as
+              you achieve your career objectives through our best in the market live online
+              courses. We transform your life by helping you get an IT job as
               per current market requirements. We empower minds by deciphering
               coding skills. We believe that the world of coding can be
               conquered with the right guidance. We have already helped hundreds
@@ -84,7 +84,7 @@ function About() {
               interview along with course topics. No question asked money back
               guarantee after one week of classes if a student is not satisfied.
             </p>
-            <h2 className="font-weight-light">Our Teaching Ideology</h2>
+            <h2 >Our Teaching Ideology</h2>
             <p >
               We offer online courses purely based on live classes. During these
               live classes, we understand the existing level of students'

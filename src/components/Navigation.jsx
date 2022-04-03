@@ -39,7 +39,7 @@ function Navigation() {
             <NavLink end activeclassname="is-active" to="/">
               <img
                 src={logoImg}
-                alt="Online IT courses with live classes"
+                alt="Best online IT courses based on live classes and interactive programming sessions"
               />
             </NavLink>
           </div>
@@ -98,7 +98,7 @@ function Navigation() {
                   onClick={toggleSubmenu}
                   className="menu-item sub__menus__arrows"
                 >
-                  <Link to="OnlineCourses" className="text-white">
+                  <Link to="#" className="text-white">
                     {" "}
                     Courses <FiChevronDown />{" "}
                   </Link>
