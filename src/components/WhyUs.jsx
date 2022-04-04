@@ -61,6 +61,8 @@ function WhyUs() {
             <img
               className="img-fluid rounded mb-4 mb-lg-0"
               src={whyUsImg}
+              width="385"
+              height="352"
               alt="Best online IT courses based on live classes and interactive programming sessions"
             />
           </div>

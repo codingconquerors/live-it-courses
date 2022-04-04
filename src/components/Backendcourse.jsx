@@ -61,6 +61,8 @@ function Backendcourse() {
             <img
               className="img-fluid rounded mb-4 mb-lg-0"
               src={backendImg}
+              width="387"
+              height="368"
               alt="Best online IT courses based on live classes and interactive programming sessions"
             />
           </div>

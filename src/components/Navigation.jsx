@@ -39,6 +39,8 @@ function Navigation() {
             <NavLink end activeclassname="is-active" to="/">
               <img
                 src={logoImg}
+                width="50"
+                height="43"
                 alt="Best online IT courses based on live classes and interactive programming sessions"
               />
             </NavLink>

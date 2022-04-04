@@ -61,6 +61,8 @@ function Frontendcourse() {
             <img
               className="img-fluid rounded mb-4 mb-lg-0"
               src={frontEndImg}
+              width="438"
+              height="376"
               alt="Best online IT courses based on live classes and interactive programming sessions"
             />
           </div>

@@ -63,6 +63,8 @@ function About() {
               className="img-fluid rounded mb-4 mb-lg-0"
               src={aboutImg}
               alt="IT courses with interactive classes"
+              width="464"
+              height="353"
             />
           </div>
           <div className="col-xs-7 col-sm-6 col-lg-8">
